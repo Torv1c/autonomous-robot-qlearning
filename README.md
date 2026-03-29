@@ -34,5 +34,5 @@ After initiating with a completely zeroed Q-Table, the robot engages in an activ
 
 ---
 **Author:** Victor Cesar de Mecê Prando 
-**Linkedin**https://www.linkedin.com/in/victor-prando1/
+**Linkedin** https://www.linkedin.com/in/victor-prando1/
 
