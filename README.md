@@ -32,6 +32,10 @@ The core of the navigation relies on continuously updating the Q-Table using the
 ## Results
 After initiating with a completely zeroed Q-Table, the robot engages in an active learning phase. Initially losing the track frequently, the agent adjusts its policy matrix and achieves autonomous, error-free navigation within approximately 10 minutes of continuous environmental interaction.
 
+<img width="535" height="508" alt="Captura de tela 2026-03-29 184625" src="https://github.com/user-attachments/assets/c19ee14e-082b-4fae-936c-802fd8b250df" />
+<img width="536" height="458" alt="Captura de tela 2026-03-29 184617" src="https://github.com/user-attachments/assets/c0f1657b-2619-41fb-b5f8-54021b980508" />
+
+
 ---
 **Author:** Victor Cesar de Mecê Prando 
 **Linkedin:** https://www.linkedin.com/in/victor-prando1/
